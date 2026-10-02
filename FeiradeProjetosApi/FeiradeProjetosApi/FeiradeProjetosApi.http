@@ -1,0 +1,10 @@
+@FeiradeProjetosApi_HostAddress = http:
+GET {{FeiradeProjetosApi_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{FeiradeProjetosApi_HostAddress}}/todos/1
+Accept: application/json
+
+###
